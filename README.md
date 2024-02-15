@@ -28,6 +28,12 @@ Link towards the general Presentation
 The basic data structures can be discovered with this 
 [overview](https://docs.gammapy.org/1.1/tutorials/starting/overview.html).
 
+The general web site of Gammapy is: https://gammapy.org/ .
+
+The documentation web site of Gammapy is: https://docs.gammapy.org/1.1/index.html .
+
+The GitHub repository of the Gammapy projet is: https://github.com/gammapy . 
+
 ## Installation and set-up <a name="install" />
 The **version 1.1** of Gammapy will be used. See the 
 [Quickstart Setup](https://docs.gammapy.org/1.1/getting-started/index.html#quickstart-setup) 
@@ -62,6 +68,13 @@ This lecture will focus on the **simulations of data**, which then permits to as
 to a given source or to realize studies on reconstruction quality (assessment of systematics errors). We will firstly
 experience the simulations of a reduced binned dataset for a steady source and a time-variable object. The simulation
 of a full event list will be introduced at the end.
+
+### [Simulation of an extended source](https://github.com/bkhelifi/Brazil_2024/blob/main/simulate_3d.ipynb):
+A full simulation tutorial from A to Z for an extented source having a power-law spectrum. The model parameters of the simulated dataset are retrieved.
+
+### [Solution of the two exercises](https://github.com/bkhelifi/Brazil_2024/blob/main/simulate_3d_solution.ipynb):
+- Exercise 1: retrieve the SkyModel parameters from the simulated dataset, compate them to the initial paramters, get the significance of the simulated source.
+- Exercise 2: using simulations, determine the minimal time to detect significantly an exponential cut-off in the spectrum of a weak source
 
 ## Third hands-on session <a name="third" />
 The last session will aim to **quantify systematic errors using simulations**. We will derive the errors on spectral 
