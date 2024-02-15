@@ -31,7 +31,7 @@ The basic data structures can be discovered with this
 ## Installation and set-up <a name="install" />
 The **version 1.1** of Gammapy will be used. See the 
 [Quickstart Setup](https://docs.gammapy.org/1.1/getting-started/index.html#quickstart-setup) 
-of the documentation. And download the datasets as explained.
+of the documentation to install the Gammapy v1.1 environment. You need also to download the datasets as explained.
 
 Finally, **to get the tutorials** for these hands-on gammapy sessions, you can clone this repository on your machine using
 
