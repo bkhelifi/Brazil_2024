@@ -54,7 +54,7 @@ source.
 ### [Spectral analysis of PKS 2155-304](https://github.com/bkhelifi/Brazil_2024/blob/main/1D_analysis.ipynb):
 A full 1D (spectral) analysis tutorial from A to Z for a point-like extra-Galactic source.
 ### [3D analysis of MSH 15-52](https://github.com/bkhelifi/Brazil_2024/blob/main/3D_analysis_exercise.ipynb):
-Exercise about a full 3D analysis for an extended Galactic source. The solution will be seen together
+Exercise about a full 3D analysis for an extended Galactic source. The solution will be seen together.
 
 
 ## Second hands-on session <a name="second" />
