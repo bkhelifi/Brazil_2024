@@ -20,17 +20,17 @@ data (under the [GADF](https://gamma-astro-data-formats.readthedocs.io/en/v0.3/)
 gamma-ray instruments, like H.E.S.S/MAGIC/VERITAS/CTA (using the Imaging Atmospheric Cherenkov Technique) or 
 HAWC/SWGO (using the Water Cherenkov Technique), as well as Fermi-LAT. This software permits the production of the 
 common very-high-energy astrophysical products (like flux maps, spectral energy distribution, time domain analysis). 
-This talk will describe the library based on its version v1.2 (Feb. 2024), its main features and data flow, the 
+This talk will describe the library based on its version v1.1, its main features and data flow, the 
 organization of the Gammapy project.
 
 Link towards the general Presentation 
 
 The basic data structures can be discovered with this 
-[overview](https://docs.gammapy.org/1.2/tutorials/starting/overview.html).
+[overview](https://docs.gammapy.org/1.1/tutorials/starting/overview.html).
 
 ## Installation and set-up <a name="install" />
-The **version 1.2** of Gammapy will be used. See the 
-[Quickstart Setup](https://docs.gammapy.org/1.2/getting-started/index.html#quickstart-setup) 
+The **version 1.1** of Gammapy will be used. See the 
+[Quickstart Setup](https://docs.gammapy.org/1.1/getting-started/index.html#quickstart-setup) 
 of the documentation. And download the datasets as explained.
 
 Finally, **to get the tutorials** for these hands-on gammapy sessions, you can clone this repository on your machine using
