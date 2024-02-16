@@ -52,6 +52,13 @@ cd Brazil_2024
 jupyter lab
 ```
 
+To update your directory on disk:
+```
+cd Brazil_2024
+git pull
+```
+
+
 ## First hands-on session <a name="first" />
 This first session aims to learn on your own laptop the basic uses of Gammapy, by using Jupyter Notebooks. We will 
 work on the **extraction of a spectrum** from a point source, and on the **realization of a 3D analysis** of an extended 
