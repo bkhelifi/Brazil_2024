@@ -23,16 +23,14 @@ common very-high-energy astrophysical products (like flux maps, spectral energy 
 This talk will describe the library based on its version v1.1, its main features and data flow, the 
 organization of the Gammapy project.
 
-Link towards the general Presentation 
+Link towards the general Presentation: [Gammapy Introduction](https://github.com/bkhelifi/Brazil_2024/blob/main/gammapy_overview.pdf).
 
-The basic data structures can be discovered with this 
+A collection of links will help you for this course:
+- The basic data structures can be discovered with this 
 [overview](https://docs.gammapy.org/1.1/tutorials/starting/overview.html).
-
-The general web site of Gammapy is: https://gammapy.org/ .
-
-The documentation web site of Gammapy is: https://docs.gammapy.org/1.1/index.html .
-
-The GitHub repository of the Gammapy projet is: https://github.com/gammapy . 
+- The general web site of Gammapy is: https://gammapy.org/ .
+- The documentation web site of Gammapy is: https://docs.gammapy.org/1.1/index.html .
+- The GitHub repository of the Gammapy projet is: https://github.com/gammapy . 
 
 ## Installation and set-up <a name="install" />
 The **version 1.1** of Gammapy will be used. See the 
